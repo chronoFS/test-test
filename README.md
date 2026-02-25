@@ -12,6 +12,6 @@ or code
 console.log('hello World)
 ```
 
-or add imagesasd adasdasdasdasd. dasdasd asdsad
+or add imagesasd adasdasdasdasd. dasdasd asdsadasdasdasdasd
 
 ![Alt text](./what-huh.gif)
