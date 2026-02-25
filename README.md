@@ -2,16 +2,16 @@
 
 You can do all kind of things here:
 
-Like 
+Like
 
 > quote
->
+or code
 
-or code 
+
 ```javascript
 console.log('hello World)
 ```
 
-or add images
+or add imagesasd adasdasdasdasd. dasdasd asdsad
 
 ![Alt text](./what-huh.gif)
