@@ -15,4 +15,4 @@ console.log('hello World)
 
 sasdsdsadsadasdor add imageddddasdasdsadsad
 
-![](what-huh.gif)![](ssadadasdasd)
+⁠⁠
