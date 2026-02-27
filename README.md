@@ -15,6 +15,6 @@ console.log('hello World)
 
 sasdsdsadsadasdor add imageddddasdasdsadsad
 
-![](asdasd)![](app-screen.webp)sasdsdsadsadasdor add imageddddasdasdsadsad
+⁠⁠sasdsdsadsadasdor add imageddddasdasdsadsad
 
 ![](test_image.png)
