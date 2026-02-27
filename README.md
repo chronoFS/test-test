@@ -15,4 +15,4 @@ console.log('hello World)
 
 or add images
 
-   ![Alt text](./what-huh.gif) 
+   ![Alt text](./what-huh.gif)  
