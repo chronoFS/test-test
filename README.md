@@ -13,9 +13,9 @@ or code
 console.log('hello World)
 ```
 
-1d
+1dasd
 
-![](what-huh.gif)
+![](fsa)
 
 2
 
