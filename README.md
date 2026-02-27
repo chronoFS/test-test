@@ -19,6 +19,6 @@ console.log('hello World)
 
 2
 
-![](what-huh.gif)3=
+![](what-huh.gif)3?
 
 ![](test_image.png)
