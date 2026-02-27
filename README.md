@@ -18,7 +18,3 @@ or add imageddddasdasdsadsad
    ![Alt text](./what-huh.gif)
 
 &#8203;
-
- 
-
-&#8203;
