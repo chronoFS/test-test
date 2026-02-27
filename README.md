@@ -13,6 +13,6 @@ or code
 console.log('hello World)
 ```
 
-or add imaged
+or add imageddddasdasdsad
 
    ![Alt text](./what-huh.gif)  
