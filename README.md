@@ -15,6 +15,6 @@ console.log('hello World)
 
 sasdsdsadsadasdor add imageddddasdasdsadsad
 
-⁠⁠sasdsdsadsadasdor add imageddddasdasdsadsad
+![](what-huh.gif)![](test_image.png)sasdsdsadsadasdor add imageddddasdasdsadsad
 
 ![](test_image.png)
