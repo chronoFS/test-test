@@ -13,7 +13,7 @@ or code
 console.log('hello World)
 ```
 
-1
+1d
 
 ![](what-huh.gif)
 
