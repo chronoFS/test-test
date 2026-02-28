@@ -15,7 +15,7 @@ console.log('hello World)w
 
 1dasd
 
-![alttext](test_image.png)![alttext2](url2)2
+![alttext](test_image.png)![alttext2](what-huh.gif)2
 
 ![](undefined)
 
