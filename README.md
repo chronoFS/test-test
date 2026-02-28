@@ -15,7 +15,7 @@ console.log('hello World)
 
 1dasd
 
-![](fsa)
+![](undefined)
 
 2
 
