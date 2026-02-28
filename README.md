@@ -23,4 +23,4 @@ console.log('hello World)
 
 3?
 
-![](test_image.png)
+![](undefined)
