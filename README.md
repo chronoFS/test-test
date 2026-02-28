@@ -10,7 +10,7 @@ or code
 
 
 ```javascript
-console.log('hello World)
+console.log('hello World)w
 ```
 
 1dasd
