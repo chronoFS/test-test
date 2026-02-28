@@ -15,7 +15,7 @@ console.log('hello World)
 
 1dasd
 
-![](asasdasd)
+![](undefined)
 
 2
 
