@@ -15,9 +15,7 @@ console.log('hello World)w
 
 1dasd
 
-![](xy)
-
-2
+![](xy)![](xyfff)2
 
 ![](undefined)
 
