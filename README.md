@@ -19,7 +19,7 @@ console.log('hello World)
 
 2
 
-![](what-huh.gif)
+![](undefined)
 
 3?
 
