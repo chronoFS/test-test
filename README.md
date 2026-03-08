@@ -15,4 +15,4 @@ console.log('hello World)
 
 or add im[ages](https://asfaf)
 
-⁠![Alt text](./what-huh.gif)
+&#8203;
