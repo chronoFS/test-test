@@ -6,7 +6,7 @@ Like
 
 > quote
 
-or code
+or [code](http://test.te)
 
 
 ```javascript
